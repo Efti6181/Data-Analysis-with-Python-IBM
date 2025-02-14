@@ -74,6 +74,8 @@ The following Python libraries were integral to the course:
 - DataPrep
 
 ## Certification
-https://coursera.org/share/ed9f944443d18ac2dc5842bb3767ae51
+![Screenshot 2025-02-15 035040](https://github.com/user-attachments/assets/aef4b6fa-1382-4314-9125-96097e0eede8)
+
+![IBM Badge](https://github.com/user-attachments/assets/bff4cd4f-6339-4ff0-bf1e-7e9c95b75f67)
 
 This course is certified by Coursera and authorized by IBM. The badge earner possesses core skills in data analysis using Python, including data cleaning, visualization, and summarization with Pandas. They are proficient in developing data pipelines and constructing machine learning models for regression using Scikit-Learn.
