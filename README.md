@@ -79,3 +79,14 @@ The following Python libraries were integral to the course:
 ![IBM Badge](https://github.com/user-attachments/assets/bff4cd4f-6339-4ff0-bf1e-7e9c95b75f67)
 
 This course is certified by Coursera and authorized by IBM. The badge earner possesses core skills in data analysis using Python, including data cleaning, visualization, and summarization with Pandas. They are proficient in developing data pipelines and constructing machine learning models for regression using Scikit-Learn.
+
+## 📫 **Contact**  
+**Author:** Md. Nazmul Alam Efti  
+- **LinkedIn:** [Nazmul Alam Efti](https://www.linkedin.com/in/nazmul-alam-efti)   
+- **Email:** najmul27alam@gmail.com  
+
+---
+
+## 📜 **License**  
+This repository and its content are licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+
