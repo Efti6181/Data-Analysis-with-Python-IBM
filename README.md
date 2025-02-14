@@ -48,7 +48,13 @@ This course provides a comprehensive exploration of data analysis using Python. 
 ## Tools
 
 The course utilized the following tools:
-![image](https://github.com/user-attachments/assets/d3bc23a9-16f9-4a28-87e0-6655e83db45e) ![image](https://github.com/user-attachments/assets/2f93ac70-d090-4966-9b86-9752bdd1e628) ![image](https://github.com/user-attachments/assets/b804fd71-c101-4317-ab76-f0feb7d759d7) ![image](https://github.com/user-attachments/assets/56156bdb-903a-41f6-bbf8-342faee029e9) ![image](https://github.com/user-attachments/assets/71aae686-fa74-4d33-8df3-47e7cd2ada9a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d3bc23a9-16f9-4a28-87e0-6655e83db45e" alt="Image 1" width="50" height="50">
+  <img src="https://github.com/user-attachments/assets/2f93ac70-d090-4966-9b86-9752bdd1e628" alt="Image 2" width="50" height="50">
+  <img src="https://github.com/user-attachments/assets/b804fd71-c101-4317-ab76-f0feb7d759d7" alt="Image 3" width="50" height="50">
+  <img src="https://github.com/user-attachments/assets/56156bdb-903a-41f6-bbf8-342faee029e9" alt="Image 4" width="50" height="50">
+  <img src="https://github.com/user-attachments/assets/71aae686-fa74-4d33-8df3-47e7cd2ada9a" alt="Image 5" width="50" height="50">
+</p>
 (Python, Jupyter, GitHub, IBM Watson Studio, IBM Cloud Pak)
 
 
